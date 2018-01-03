@@ -1,4 +1,6 @@
 # t9qyz
+   基于t9nuoya的xige脚本修改，更换为下载速度比较好的外链地址
+
 下载putty或者是xshell工具连接好centos系统的服务器ssh
 然后使用下面命令，等待安装完成
 ```Bash
