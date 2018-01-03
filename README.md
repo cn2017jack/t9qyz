@@ -6,6 +6,7 @@ yum -y install wget
 wget --no-check-certificate https://raw.githubusercontent.com/cn2017jack/t9qyz/master/install.sh -O ./install.sh
 chmod 700 ./install.sh
 ./install.sh install
+```
 
 服务端安装完成后我们只需要就行几项配置即可
 使用winscp这个工具连接SFTP（同连接ssh方法一样）
